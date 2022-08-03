@@ -24,13 +24,13 @@
     <summary><b>Deploy</b></summary>
     <p align="left"></p>
     <b>1. <u>Deploy to Heroku</u></b><br>
-        <a href="https://heroku.com/deploy?template=https://github.com/m4mallu/uniquify">
+        <a href="https://heroku.com/deploy?template=https://github.com/RAJANGAMR/uniquify">
             <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
     </a><br><br>
     <b>2. <u>Deploy to VPS</u></b><br>
     <ul>
         <li>Open a Linux Terminal and run the following commands.</li>
-        <li><code>git clone https://github.com/m4mallu/uniquify</code></li>
+        <li><code>git clone https://github.com/RAJANGAMR/uniquify</code></li>
         <li><code>cd uniquify</code></li>
         <li>Create a <code>config.py</code> file with the mandatory variables.(Refer <code>sample_config.py</code>)</li>
         <li>Run the following commands in the same terminal opened.</li>
