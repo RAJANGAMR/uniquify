@@ -8,7 +8,7 @@ cancel_button = [
 
 start_button = [
     [
-        InlineKeyboardButton('Support Chat', url='t.me/RMProjects'),
+        InlineKeyboardButton('Support Chat', url='t.me/Tamil_Support'),
         InlineKeyboardButton('Help', callback_data='help_btn')
     ]
 ]
@@ -21,7 +21,7 @@ back_button = [
 
 close_button = [
     [
-        InlineKeyboardButton('Support Chat', url='t.me/RMProjects'),
+        InlineKeyboardButton('Support Chat', url='t.me/Tamil_Support'),
         InlineKeyboardButton('Close', callback_data='close_btn')
     ]
 ]
