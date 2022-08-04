@@ -31,7 +31,7 @@ Duplicate Media counter and current message id will displays in the UI with proc
     INCORRECT_PERMISSION = "<b>Error</b> ❎\n<i>Session user is not an admin / doesn't have the privilege to</i><b> " \
                            "Delete Messages</b>" \
                            "<i> in this chat</i> ☹️"
-    INVALID_CHAT = "<b>Invalid Input</b> ❎\n<i>Input must be in the format</i>\n<code>/chat -10025486542156</code>"
+    INVALID_CHAT = "<b>Invalid Input</b> ❎\n<i>Input must be in the format</i>\n<code>/chat -1001769586388</code>"
     DELETING_MSGS = """
 <b>Messages deleted   : {}</b>
 \xad                                                                 \xad
